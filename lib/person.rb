@@ -1,6 +1,6 @@
 class Person  
 
-    def name=(name)
+    def breed=(name)
         @name = name
     end
 
